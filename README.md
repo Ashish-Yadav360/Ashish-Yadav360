@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Data Structures And Algorithms*
 
-- 🌱 I’m currently learning *System Design and Microservices, Java*
+- 🌱 I’m currently learning *System Design and Microservices*
 
 - 👯 I’m looking to collaborate on *Frontend and Backend Projects in Mern*
 
