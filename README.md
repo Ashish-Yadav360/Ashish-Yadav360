@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *System Design and Microservices*
 
-- 👯 I’m looking to collaborate on *Frontend and Backend Projects in Mern*
+- 👯 I’m looking to collaborate on *Frontend and Backend Projects in Node.js or SpringBoot*
 
 - 💬 Ask me about *Interesting problems*
 
